@@ -1,0 +1,50 @@
+{
+    "dataset": [
+      {
+        "category": "Language Barriers",
+        "examples": [
+          {
+            "input_text": "Apply nitrogen fertilizer during the vegetative growth stage.",
+            "expected_output": "वेजिटेटिव ग्रोथ स्टेज के दौरान नाइट्रोजन खाद डालें।"
+          },
+          {
+            "input_text": "Ensure proper irrigation to avoid water stress in crops.",
+            "expected_output": "फसलों में पानी की कमी से बचने के लिए उचित सिंचाई सुनिश्चित करें।"
+          },
+          {
+            "input_text": "Monitor soil pH regularly to maintain optimal growth conditions.",
+            "expected_output": "इष्टतम वृद्धि की स्थिति बनाए रखने के लिए मिट्टी का पीएच नियमित रूप से मॉनिटर करें।"
+          },
+          {
+            "input_text": "Use integrated pest management techniques to control pest populations.",
+            "expected_output": "कीट जनसंख्या को नियंत्रित करने के लिए एकीकृत कीट प्रबंधन तकनीकों का उपयोग करें।"
+          },
+          {
+            "input_text": "Plant drought-resistant crop varieties to cope with water scarcity.",
+            "expected_output": "पानी की कमी से निपटने के लिए सूखा-प्रतिरोधी फसल किस्में लगाएं।"
+          },
+          {
+            "input_text": "Apply organic mulches to conserve soil moisture.",
+            "expected_output": "मिट्टी की नमी संरक्षित करने के लिए जैविक मल्च का उपयोग करें।"
+          },
+          {
+            "input_text": "Practice crop rotation to enhance soil fertility.",
+            "expected_output": "मिट्टी की उर्वरता बढ़ाने के लिए फसल चक्र अपनाएं।"
+          },
+          {
+            "input_text": "Use pheromone traps to monitor and control insect pests.",
+            "expected_output": "कीटों की निगरानी और नियंत्रण के लिए फेरोमोन ट्रैप का उपयोग करें।"
+          },
+          {
+            "input_text": "Test soil nutrient levels before applying fertilizers.",
+            "expected_output": "उर्वरक लगाने से पहले मिट्टी के पोषक तत्व स्तर की जांच करें।"
+          },
+          {
+            "input_text": "Adopt sustainable farming practices to improve yield.",
+            "expected_output": "उपज बढ़ाने के लिए टिकाऊ खेती के तरीके अपनाएं।"
+          }
+        ]
+      }
+    ]
+}
+      
