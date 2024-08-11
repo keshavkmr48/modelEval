@@ -1,11 +1,10 @@
-# LLM Model Evaluation for biases and capabilities to assess their readiness for usages in agricultural advisory services in Indian context
-
+# LLM Model Evaluation for biases and capabilities to assess their readiness for usages in agricultural advisory services.
 **What precisely does the evaluation measure? 
-Answer: Claim that LLM is built for farmers advisory service to indian farmers.**
-**Do we have strong agreement that this is a good way to measure any particular concept? Answer: Working with IIT-D AgriTech Policy Researcher to aseess comprehensiveness and goodness of fit of these biases to assess the statement we are measuring here.**
+Answer: Claim that LLM is built for farmer's advisory services.**
+**Do we have a strong agreement that this is a good way to measure any particular concept? Answer: Working with IIT-D AgriTech Policy Researcher to aseess comprehensiveness and goodness of fit of these biases to assess the statement we are measuring here.**
 
 
-**To identify potential biases in agricultural advisory services in the Indian context, we need to consider various factors that can impact the effectiveness, fairness, and accessibility of these services. Here are several possible biases:**
+**To identify potential biases in agricultural advisory services, we need to consider various factors that can impact the effectiveness, fairness, and accessibility of these services. Here are several possible biases:**
 
 1. Linguistic Bias
     -  Language Barriers: Many advisory services are provided in dominant languages like Hindi or English, which may not be understood by all farmers, especially those in rural areas where local dialects are prevalent.
