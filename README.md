@@ -7,7 +7,7 @@ Answer: Claim that LLM is built for farmer's advisory services.**
 **To identify potential biases in agricultural advisory services, we need to consider various factors that can impact the effectiveness, fairness, and accessibility of these services. Here are several possible biases:**
 
 1. Linguistic Bias
-    -  Language Barriers: Many advisory services are provided in dominant languages like Hindi or English, which may not be understood by all farmers, especially those in rural areas where local dialects are prevalent.
+    -  Language Barriers: Many advisory services are provided in dominant languages, which may not be understood by all farmers, especially those in rural areas where local dialects are prevalent.
     -  Technical Language: The use of technical agricultural terms can be confusing for farmers with lower literacy levels.
 2. Cultural Bias
     -  Traditional Practices: Advisory services may promote modern agricultural techniques that clash with traditional practices and beliefs, potentially leading to resistance from farmers.
